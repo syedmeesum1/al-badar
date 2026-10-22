@@ -43,3 +43,10 @@ cd al-badar
 node server.js
 ```
 Open [http://localhost:3456/](http://localhost:3456/) in your browser.
+
+---
+
+### 📖 Developer Documentation
+- **Markdown Specification Guide:** [`DEVELOPER_DOCUMENTATION.md`](DEVELOPER_DOCUMENTATION.md) — Comprehensive technical architecture, directory tree, ERP simulator logic, Prisma schema, REST APIs, and textile calculations.
+- **Master PDF Document:** [`Al-Badar-Hosiery-Developer-Documentation.pdf`](Al-Badar-Hosiery-Developer-Documentation.pdf) — Printable executive whitepaper.
+
